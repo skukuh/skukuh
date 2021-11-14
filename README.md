@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skukuh
-- 👀 I’m interested in PHP, Java, Js, 
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in PHP, Java, Js, Go, Dart
+- 🌱 I’m currently learning React.js, Go
 - 💞️ I’m looking to collaborate on Application Trade
 - 📫 How to reach me : https://t.me/subur_kukuh
 
